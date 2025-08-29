@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+transformers
+huggingface_hub
+PyPDF2
+faiss-cpu
