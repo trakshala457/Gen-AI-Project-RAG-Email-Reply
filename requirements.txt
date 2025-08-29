@@ -4,3 +4,5 @@ transformers
 huggingface_hub
 PyPDF2
 faiss-cpu
+google-generativeai
+
